@@ -28,13 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/desktop-design.png)
+![](./design/mobile-design.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/TRIPLE-ADE/Fylo-landing-page)
+- Live Site URL: [Add live site URL here](https://triple-ade.github.io/Fylo-landing-page/)
 
 ## My process
 
@@ -117,6 +118,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 - javaScript DOM
 
 ## Author
-- Website - [TripleA](https://www.your-site.com)
+- Website - [TripleA](https://triple-ade.github.io/Fylo-landing-page/)
 - Frontend Mentor - [@TRIPLE-ADE](https://www.frontendmentor.io/profile/TRIPLE-ADE)
 - Twitter - [@Triple123A](https://www.twitter.com/Triple123A)
